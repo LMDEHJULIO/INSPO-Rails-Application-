@@ -1,5 +1,5 @@
 Hello all
 
-This is a sample application that I used to further my knoweldge of rails. It is a photosharing app that users involve themselves with for inspiration photos mainly within the code/design realm, but I suppose we shouldn't stop there. Its my first applicaiton using HAML instead of ERB, which I actually find MUCH preferable to the latter now that I've used it. 
+This is a sample application that I used to further my knoweldge of rails. It is a photosharing app that users involve themselves with for photos/content that inspires them mainly within the code/design realm, but I suppose we shouldn't stop there. Its my first applicaiton using HAML instead of ERB, which I actually find MUCH preferable to the latter now that I've used it. 
 
 Anyway this is but one app on my conquest to learn more rails. I'm feeling stronger by the app and am really enjoying the process. Onto the next one!(though I will improve this one)
