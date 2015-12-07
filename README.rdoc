@@ -1,28 +1,5 @@
-== README
+<h1> Hello all</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<p> This is a sample application that I used to further my knoweldge of rails. It is a photosharing app users involve themselves with for inspiration photos mainly within the code/design real, but I suppose we shouldn't stop their. Its my first applicaiton using HAML instead of ERB, which I actually find MUCH preferable to the latter now that I've used it. </p>
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+<p>Anyway this is but one app on my conquest to learn more rails. I'm feeling stronger by the app and am really enjoying the process. Onto the next one!(though I will improve this one)</p>
